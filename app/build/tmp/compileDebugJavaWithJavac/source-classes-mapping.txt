@@ -1,0 +1,49 @@
+com/example/studyapp/taskdb/TaskDatabase.java
+ com.example.studyapp.taskdb.TaskDatabase
+ com.example.studyapp.taskdb.TaskDatabase$1
+com/example/studyapp/taskdb/TaskDao.java
+ com.example.studyapp.taskdb.TaskDao
+com/example/studyapp/BuildConfig.java
+ com.example.studyapp.BuildConfig
+com/example/studyapp/activities/MainActivity.java
+ com.example.studyapp.activities.MainActivity
+ com.example.studyapp.activities.MainActivity$1
+ com.example.studyapp.activities.MainActivity$2
+ com.example.studyapp.activities.MainActivity$3
+ com.example.studyapp.activities.MainActivity$4
+ com.example.studyapp.activities.MainActivity$4$1
+ com.example.studyapp.activities.MainActivity$4$2
+ com.example.studyapp.activities.MainActivity$5
+ com.example.studyapp.activities.MainActivity$6
+ com.example.studyapp.activities.MainActivity$7
+com/example/studyapp/taskdb/TaskRepository.java
+ com.example.studyapp.taskdb.TaskRepository
+ com.example.studyapp.taskdb.TaskRepository$deleteAsyncTask
+ com.example.studyapp.taskdb.TaskRepository$insertAsyncTask
+ com.example.studyapp.taskdb.TaskRepository$updateAsyncTask
+com/example/studyapp/databinding/RecyclerviewItemBinding.java
+ com.example.studyapp.databinding.RecyclerviewItemBinding
+com/example/studyapp/taskdb/TaskViewModel.java
+ com.example.studyapp.taskdb.TaskViewModel
+com/example/studyapp/databinding/TaskCreateDialogBinding.java
+ com.example.studyapp.databinding.TaskCreateDialogBinding
+com/example/studyapp/databinding/ActivityTimerBinding.java
+ com.example.studyapp.databinding.ActivityTimerBinding
+com/example/studyapp/activities/TimerActivity.java
+ com.example.studyapp.activities.TimerActivity
+ com.example.studyapp.activities.TimerActivity$1
+ com.example.studyapp.activities.TimerActivity$2
+ com.example.studyapp.activities.TimerActivity$3
+ com.example.studyapp.activities.TimerActivity$4
+ com.example.studyapp.activities.TimerActivity$5
+com/example/studyapp/taskdb/Task.java
+ com.example.studyapp.taskdb.Task
+com/example/studyapp/taskdb/TaskListAdapter.java
+ com.example.studyapp.taskdb.TaskListAdapter
+ com.example.studyapp.taskdb.TaskListAdapter$1
+ com.example.studyapp.taskdb.TaskListAdapter$OnTaskClickListener
+ com.example.studyapp.taskdb.TaskListAdapter$TaskViewHolder
+com/example/studyapp/databinding/TaskDescriptionDialogBinding.java
+ com.example.studyapp.databinding.TaskDescriptionDialogBinding
+com/example/studyapp/databinding/ActivityMainBinding.java
+ com.example.studyapp.databinding.ActivityMainBinding
